@@ -8,4 +8,4 @@ Ejemplo practico para slider de imagen principal sincronizado con imagen de fond
 
 
 # cd app and run: npm install
-Si quieres previsualizar este proyecto, descarga la apk Android que te dejo en este repositorio, solo descarga el archivo app-release.apk e instala en tu smarthphone.
+Si quieres previsualizar este proyecto, descarga la apk Android que te dejo en este repositorio, solo descarga el archivo app-release.apk( click en 'View Raw') e instala en tu smarthphone.
